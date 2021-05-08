@@ -6,4 +6,4 @@
 2. Unzip
 3. Open index.html
 
-*Source code in sketch.js
+*Source code in sketch.js*
