@@ -5,3 +5,5 @@
 1. Clone
 2. Unzip
 3. Open index.html
+
+*Source code in sketch.js
